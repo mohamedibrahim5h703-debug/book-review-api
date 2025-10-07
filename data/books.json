@@ -1,0 +1,16 @@
+[
+  {
+    "isbn": "1234567890",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "reviews": {
+      "john": "A classic. Very helpful for writing clean code."
+    }
+  },
+  {
+    "isbn": "0987654321",
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "reviews": {}
+  }
+]
